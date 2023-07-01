@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://korin-to-developer.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="https://www.instagram.com/zer0._.light/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="k264535@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=k264535@gmail.com"/></a>
 </p>
