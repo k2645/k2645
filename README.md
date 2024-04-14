@@ -1,9 +1,10 @@
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E6E6FA&height=300&section=header&text=YeongHyeon%20Kim&fontSize=90&fontColor=FFFFFF" />
-</p>
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=F05138&height=180&text=YeongHyeon%20Kim&fontColor=ffffff)
+</div>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h2 align="center">📚 Tech Stack</h2>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=round-square&logo=UIKit&logoColor=white"/>
@@ -11,4 +12,24 @@
   <img src="https://img.shields.io/badge/Alamofire-D63F1A?style=round-square&logo=Alamy&logoColor=white"/>
 </p>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk2645%2Fhit-counter&count_bg=%23D7CFFF&title_bg=%23D7CFFF&icon=github.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
+<div align=center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2645&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2>🤓 Problem Solved</h2>
+
+[![Solved.ac 
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2645)](https://solved.ac/k2645)
+
+</div>
+
+<div align=right>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk2645%2Fhit-counter&count_bg=%23F05138&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=00me&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+<div align=center>
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F05138&height=130&section=footer)
+</div>
