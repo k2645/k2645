@@ -20,8 +20,7 @@
 
 <h2>🤓 Problem Solved</h2>
 
-[![Solved.ac 
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2645)](https://solved.ac/k2645)
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/k2645" width="600" height="300"/></a>
 
 </div>
 
