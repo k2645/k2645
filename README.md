@@ -8,8 +8,9 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=round-square&logo=UIKit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Combine-F05138?style=round-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=round-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=round-square&logo=ReactiveX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Combine-F05138?style=round-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alamofire-D63F1A?style=round-square&logo=Alamy&logoColor=white"/>
 </p>
 
